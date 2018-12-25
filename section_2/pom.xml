@@ -23,7 +23,7 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <echo>Hello, world!</echo>
+                                <echo>Hello ${Name}</echo>
                             </tasks>
                         </configuration>
                     </execution>
