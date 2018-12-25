@@ -23,7 +23,7 @@
                         </goals>
                         <configuration>
                             <tasks>
-                                <echo>Hello ${Name}</echo>
+                                <echo>Hello ${MVNName}</echo>
                             </tasks>
                         </configuration>
                     </execution>
